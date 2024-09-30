@@ -72,8 +72,7 @@ header {
   }
 
   .info-text {
-    width: 50%;
-    margin: 0 auto;
+    width: 75%;
     text-align: center;
   }
   
@@ -105,7 +104,7 @@ header {
     color: #ffffff;
     border: none;
     cursor: pointer;
-    width: 80%;
+    width: 70%;
   }
 
   footer {
