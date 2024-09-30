@@ -70,6 +70,12 @@ header {
     padding: 50px 20px;
     background-color: #f0f0f0;
   }
+
+  .info-text {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+  }
   
   .dog-info {
     text-align: center;
@@ -103,6 +109,7 @@ header {
   }
 
   footer {
+    padding: 15px;
     background-color: #048eaa;
   }
 
